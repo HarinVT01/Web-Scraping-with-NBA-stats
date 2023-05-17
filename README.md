@@ -22,3 +22,11 @@
 5. Convert the dataframe to csv.
 
 ## Data Preprocessing
+1. Load mvp dataset
+2. Load player dataset
+3. Remove unwanted attributes in player dataset
+4. Combine mvp and player data
+5. Load team dataset
+6. Remove unwanted attributes in team data
+7. Convert the string attributes to numeric attribute
+8. Combine team, player and mvp data
