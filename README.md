@@ -30,3 +30,8 @@
 6. Remove unwanted attributes in team data
 7. Convert the string attributes to numeric attribute
 8. Combine team, player and mvp data
+
+## Prediction
+1. Read mvp data
+2. Train a machine learning model
+3. 
